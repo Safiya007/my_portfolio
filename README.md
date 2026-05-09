@@ -53,8 +53,8 @@ A modern responsive restaurant-based web application focused on user experience 
 ## 📬 Contact
 
 - GitHub: https://github.com/Safiya007
-- Email: yourmail@gmail.com
-- Portfolio: https://yourportfolio.vercel.app
+- Email: safiyabegam2006@gmail.com
+- Portfolio:https://safiya-portfolio-black.vercel.app/
 
 ---
 
