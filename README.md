@@ -4,7 +4,7 @@ Crafting intelligent and visually stunning digital experiences through full stac
 
 A modern and responsive full stack developer portfolio showcasing scalable web applications, AI-powered projects, and immersive digital experiences.
 
-## 🚀 About
+## 🚀 About  
 
 This portfolio represents my journey as an emerging Full Stack Developer and AI enthusiast passionate about building impactful digital solutions through clean design and modern technologies.
 
